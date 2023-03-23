@@ -14,5 +14,9 @@ Python 3 should be installed and added to the system path.
 From the command prompt, navigate to the directory cloned and run the following commands:
 ```./ParsecLogPollingService.exe stop && ./ParsecLogPollingService.exe uninstall```
 
+# Related Repository
+SetDPI.exe from https://github.com/imniko/SetDPI
+Service wrapper from https://github.com/winsw/winsw
+
 # License
 MIT
